@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Ed! 👋
 
-<!--
-**ebcsr/ebcsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ I'm a Computer Science student  
+- 🌐 Currently focusing on **Web Development** and **Cloud Computing** (grinding 💻☁️)  
+- 🤖 Exploring the world of **AI & Machine Learning**, and building my own chatbot (pretty exciting, right?)  
+- 📫 Always open to learn, collaborate, and improve!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥 Check out my vlog: [@yd_stories](https://www.youtube.com/@yd_stories)  
+*(Started for academics, but might grow into my passion — maybe with dev content!)*  
+
+---
+
+✨ *"Turning curiosity into code, one commit at a time."*  
